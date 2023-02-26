@@ -1,2 +1,2 @@
-### Hello there, I'm using Whatsapp
-Visit me under: https://pianoman911.tk/
+### Hello there, I'm using Discord
+Visit me under: https://pianoman911.me/
