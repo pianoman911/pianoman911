@@ -51,6 +51,16 @@
 <br>
 <!--START_SECTION:waka-->
 
+```text
+From: 13 May 2023 - To: 20 May 2023
+
+Java             6 hrs 7 mins    ████████▓░░░░░░░░░░░░░░░░   34.12 %
+JavaScript       3 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+HTML             2 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+Other            2 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+CSS              1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+```
+
 <!--END_SECTION:waka-->
 </p>
 
