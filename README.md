@@ -2,7 +2,7 @@
 
 ### Hi there :wave: I am Finn Dohrmann
 :house_with_garden: I live near Frankfurt am Main, Germany.<br>
-:computer: I am currently working for the thejocraft.net minecraft server.<br>
+:computer: I am currently working for the <a href="https://thejocraft.net">thejocraft.net</a> minecraft server.<br>
 :world_map: Also i am the Owner of <a href="https://github.com/TheJoCraftNET/MapEngine">MapEngine</a>, used to show images and video/streaming on minecraft maps.<br>
 :fire_engine: I am a volunteer firefighter.
 
