@@ -6,7 +6,7 @@
 :world_map: Also i am the Owner of <a href="https://github.com/TheJoCraftNET/MapEngine">MapEngine</a>, used to show images and video/streaming on minecraft maps.<br>
 :fire_engine: I am a volunteer firefighter.
 
-### Skill-set
+### Skill-set (Things of daily use)
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
