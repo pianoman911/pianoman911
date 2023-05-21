@@ -48,6 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pianoman911&exclude_repo=pianoman911.github.io&layout=compact&theme=apprentice" alt="Top langs">
   <br>
   <a href="https://wakatime.com/@aa3de515-8c3c-4e63-a691-57587ec123bd"><img src="https://wakatime.com/badge/user/aa3de515-8c3c-4e63-a691-57587ec123bd.svg" alt="Total time coded since Oct 3 2022" /></a>
+<br>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 </p>
 
 ### Interests
