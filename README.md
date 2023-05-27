@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2023 - To: 24 May 2023
+From: 18 May 2023 - To: 25 May 2023
 
-Total Time: 25 hrs 19 mins
+Total Time: 23 hrs 33 mins
 
-Java             10 hrs 18 mins  ██████████▒░░░░░░░░░░░░░░   40.69 %
-Other            5 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-JavaScript       3 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-HTML             1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Kotlin           1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Java             8 hrs 56 mins   █████████▒░░░░░░░░░░░░░░░   37.94 %
+Other            5 hrs 53 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
+JavaScript       3 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+HTML             1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Kotlin           1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
 ```
 
 <!--END_SECTION:waka-->
