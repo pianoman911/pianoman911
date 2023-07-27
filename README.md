@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2023 - To: 24 July 2023
+From: 18 July 2023 - To: 25 July 2023
 
-Total Time: 6 hrs 58 mins
+Total Time: 7 hrs 13 mins
 
-Other            4 hrs 4 mins    ██████████████▓░░░░░░░░░░   58.31 %
-Java             2 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   39.65 %
-SQL              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Kotlin           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other            4 hrs 6 mins    ██████████████▒░░░░░░░░░░   57.00 %
+Java             2 hrs 57 mins   ██████████▒░░░░░░░░░░░░░░   41.03 %
+SQL              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Kotlin           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
