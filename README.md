@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2023 - To: 18 August 2023
+From: 12 August 2023 - To: 19 August 2023
 
-Total Time: 33 hrs 9 mins
+Total Time: 25 hrs 45 mins
 
-Java             15 hrs          ███████████▒░░░░░░░░░░░░░   45.27 %
-Other            12 hrs 41 mins  █████████▓░░░░░░░░░░░░░░░   38.28 %
-SQL              3 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Kotlin           1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-C++              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Other    11 hrs 19 mins  ███████████░░░░░░░░░░░░░░   43.97 %
+Java     10 hrs 48 mins  ██████████▒░░░░░░░░░░░░░░   41.98 %
+SQL      3 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+YAML     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Kotlin   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
