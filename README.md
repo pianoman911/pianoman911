@@ -52,13 +52,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-Total Time: 20 hrs 40 mins
+Total Time: 20 hrs 27 mins
 
-Java           13 hrs 10 mins  ████████████████░░░░░░░░░   63.71 %
-Other          7 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   35.75 %
-Python         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Java           13 hrs 10 mins  ████████████████░░░░░░░░░   64.39 %
+Other          7 hrs 10 mins   ████████▓░░░░░░░░░░░░░░░░   35.07 %
+Python         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 Markdown       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Kotlin         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
