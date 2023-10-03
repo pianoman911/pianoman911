@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2023 - To: 30 September 2023
+From: 25 September 2023 - To: 02 October 2023
 
-Total Time: 9 hrs 43 mins
+Total Time: 11 hrs 12 mins
 
-Java                6 hrs 57 mins   ██████████████████░░░░░░░   71.60 %
-Other               2 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
-GUI_DESIGNER_FORM   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Kotlin              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-TOML                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Java                7 hrs 21 mins   ████████████████▒░░░░░░░░   65.57 %
+Other               3 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   32.26 %
+Kotlin              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+TOML                5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+GUI_DESIGNER_FORM   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
