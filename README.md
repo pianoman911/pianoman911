@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2023 - To: 17 October 2023
+From: 11 October 2023 - To: 18 October 2023
 
-Total Time: 18 hrs 17 mins
+Total Time: 18 hrs 32 mins
 
-Java             8 hrs 50 mins   ████████████░░░░░░░░░░░░░   48.33 %
-Other            8 hrs 1 min     ███████████░░░░░░░░░░░░░░   43.84 %
-SQL              33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Text             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Kotlin           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Other            9 hrs 4 mins    ████████████▒░░░░░░░░░░░░   48.91 %
+Java             7 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   42.74 %
+SQL              39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Kotlin           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Text             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
