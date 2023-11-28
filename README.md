@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2023 - To: 25 November 2023
+From: 19 November 2023 - To: 26 November 2023
 
-Total Time: 16 hrs 36 mins
+Total Time: 22 hrs
 
-Java                13 hrs 52 mins  █████████████████████░░░░   83.59 %
-Other               1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-HTML                20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-SQL                 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-GUI_DESIGNER_FORM   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Java                17 hrs 55 mins  ████████████████████▒░░░░   81.49 %
+Other               1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+HTML                1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+SQL                 22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+JavaScript          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
