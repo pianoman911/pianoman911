@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2023 - To: 12 December 2023
+From: 06 December 2023 - To: 13 December 2023
 
-Total Time: 9 hrs 27 mins
+Total Time: 8 hrs 38 mins
 
-Java              7 hrs 56 mins   █████████████████████░░░░   83.94 %
-Markdown          48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Kotlin            29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Other             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-GitIgnore file    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Java              7 hrs 22 mins   █████████████████████▒░░░   85.37 %
+Markdown          45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Kotlin            17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Other             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+GitIgnore file    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
