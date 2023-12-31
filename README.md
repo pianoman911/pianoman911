@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
-Total Time: 22 hrs 53 mins
+Total Time: 27 hrs 6 mins
 
-Java             17 hrs 35 mins  ███████████████████▒░░░░░   76.86 %
-Jupyter          2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-Kotlin           53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-CSV/TSV          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-HTML             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Java             19 hrs 37 mins  ██████████████████░░░░░░░   72.42 %
+Jupyter          3 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Markdown         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Kotlin           1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+YAML             32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
