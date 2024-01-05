@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-Total Time: 21 hrs 43 mins
+Total Time: 24 hrs 6 mins
 
-Java             16 hrs 34 mins  ███████████████████░░░░░░   76.31 %
-Markdown         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Kotlin           1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Jupyter          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-YAML             49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Java             16 hrs 42 mins  █████████████████▒░░░░░░░   69.33 %
+Jupyter          1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Other            1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Kotlin           1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Markdown         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
 ```
 
 <!--END_SECTION:waka-->
