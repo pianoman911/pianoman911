@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Total Time: 13 hrs 43 mins
+Total Time: 14 hrs 51 mins
 
-Java             12 hrs 19 mins  ██████████████████████▒░░   89.80 %
-Jupyter          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-GitIgnore file   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Kotlin           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Python           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Java             12 hrs 50 mins  █████████████████████▓░░░   86.44 %
+Other            24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Jupyter          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+GitIgnore file   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Kotlin           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
