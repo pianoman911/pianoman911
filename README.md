@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2024 - To: 25 April 2024
+From: 19 April 2024 - To: 26 April 2024
 
-Total Time: 17 hrs
+Total Time: 19 hrs 20 mins
 
-Java             6 hrs 46 mins   ██████████░░░░░░░░░░░░░░░   39.80 %
-HTML             3 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-Other            2 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-JavaScript       1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-SQL              1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+Java             7 hrs 43 mins   ██████████░░░░░░░░░░░░░░░   39.91 %
+HTML             3 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+Other            3 hrs           ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
+JavaScript       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+SQL              1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
 ```
 
 <!--END_SECTION:waka-->
