@@ -52,13 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2024 - To: 11 June 2024
+From: 05 June 2024 - To: 12 June 2024
 
-Total Time: 47 mins
+Total Time: 0 secs
 
-Java             42 mins         ██████████████████████▓░░   90.09 %
-Kotlin           4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
