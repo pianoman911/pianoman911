@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2024 - To: 31 July 2024
+From: 25 July 2024 - To: 01 August 2024
 
-Total Time: 4 hrs 12 mins
+Total Time: 3 hrs 23 mins
 
-Java      3 hrs 25 mins   ████████████████████▒░░░░   81.37 %
-Jupyter   30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-CSV/TSV   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-YAML      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Python    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Java      2 hrs 38 mins   ███████████████████▒░░░░░   77.74 %
+Jupyter   30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+CSV/TSV   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+YAML      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Python    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
