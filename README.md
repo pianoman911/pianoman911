@@ -52,12 +52,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2024 - To: 28 August 2024
+From: 22 August 2024 - To: 29 August 2024
 
-Total Time: 5 hrs 21 mins
+Total Time: 5 hrs 41 mins
 
-Java     3 hrs 6 mins    ██████████████▒░░░░░░░░░░   58.00 %
-SQL      2 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   42.00 %
+Java     3 hrs 8 mins    █████████████▓░░░░░░░░░░░   55.28 %
+SQL      2 hrs 32 mins   ███████████▒░░░░░░░░░░░░░   44.72 %
 Kotlin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
