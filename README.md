@@ -52,14 +52,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2024 - To: 14 September 2024
+From: 08 September 2024 - To: 15 September 2024
 
-Total Time: 7 hrs 2 mins
+Total Time: 9 hrs 4 mins
 
-Java           6 hrs 48 mins   ████████████████████████░   96.62 %
-SQL            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-YAML           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Kotlin         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java           8 hrs 5 mins    ██████████████████████▒░░   89.10 %
+Kotlin         39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+SQL            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+YAML           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
