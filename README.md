@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2024 - To: 21 November 2024
+From: 15 November 2024 - To: 22 November 2024
 
-Total Time: 15 hrs 36 mins
+Total Time: 18 hrs 33 mins
 
-Java             15 hrs 16 mins  ████████████████████████▒   97.79 %
-YAML             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Kotlin           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Java             17 hrs 3 mins   ███████████████████████░░   91.90 %
+YAML             54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Kotlin           33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+SQL              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
