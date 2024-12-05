@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2024 - To: 02 December 2024
+From: 26 November 2024 - To: 03 December 2024
 
-Total Time: 19 hrs 14 mins
+Total Time: 20 hrs 4 mins
 
-Java             9 hrs 58 mins   █████████████░░░░░░░░░░░░   51.86 %
-C++              8 hrs 25 mins   ███████████░░░░░░░░░░░░░░   43.75 %
-Kotlin           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Text             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-C/C              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Java             11 hrs 51 mins  ██████████████▓░░░░░░░░░░   59.05 %
+C++              4 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   24.06 %
+Markdown         1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Rust             43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+SQL              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
