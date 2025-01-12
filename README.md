@@ -52,14 +52,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-Total Time: 27 hrs 2 mins
+Total Time: 25 hrs 3 mins
 
-Java              26 hrs 19 mins  ████████████████████████▒   97.31 %
-Kotlin            24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-YAML              9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-SQL               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Java              24 hrs 24 mins  ████████████████████████▒   97.41 %
+Kotlin            18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+YAML              9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+SQL               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 GitIgnore file    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
