@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2025 - To: 15 February 2025
+From: 09 February 2025 - To: 16 February 2025
 
-Total Time: 17 hrs 43 mins
+Total Time: 16 hrs 27 mins
 
-Java             16 hrs 29 mins  ███████████████████████▒░   93.07 %
-Kotlin           29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-JavaScript       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-SQL              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Java             15 hrs 13 mins  ███████████████████████░░   92.54 %
+Kotlin           29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+JavaScript       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+SQL              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
