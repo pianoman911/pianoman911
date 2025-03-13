@@ -52,12 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2025 - To: 10 March 2025
+From: 04 March 2025 - To: 11 March 2025
 
-Total Time: 32 mins
+Total Time: 29 mins
 
-Java       32 mins         ████████████████████████▓   99.14 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Java   29 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
