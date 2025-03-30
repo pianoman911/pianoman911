@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2025 - To: 27 March 2025
+From: 22 March 2025 - To: 29 March 2025
 
-Total Time: 1 hr 38 mins
+Total Time: 45 mins
 
-Java             1 hr 11 mins    ██████████████████▒░░░░░░   72.78 %
-Kotlin           16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-Markdown         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java       24 mins         █████████████▓░░░░░░░░░░░   54.59 %
+Kotlin     11 mins         ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+Markdown   7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+XML        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
