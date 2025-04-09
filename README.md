@@ -52,15 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2025 - To: 07 April 2025
+From: 01 April 2025 - To: 08 April 2025
 
-Total Time: 1 hr 14 mins
+Total Time: 0 secs
 
-Java             1 hr 7 mins     ██████████████████████▓░░   90.12 %
-Kotlin           7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Log              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
