@@ -52,14 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2025 - To: 14 April 2025
+From: 08 April 2025 - To: 15 April 2025
 
-Total Time: 1 hr 17 mins
+Total Time: 3 hrs 49 mins
 
-C++              1 hr 17 mins    █████████████████████████   99.98 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-C/C              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++              1 hr 36 mins    ██████████▒░░░░░░░░░░░░░░   41.99 %
+Java             25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Makefile         25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+C                18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+ObjectiveC       15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
 ```
 
 <!--END_SECTION:waka-->
