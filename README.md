@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2025 - To: 20 April 2025
+From: 14 April 2025 - To: 21 April 2025
 
-Total Time: 13 hrs 40 mins
+Total Time: 20 hrs 16 mins
 
-Java              10 hrs 55 mins  ████████████████████░░░░░   79.83 %
-Kotlin            38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Makefile          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-C++               19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-C                 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Java              15 hrs 38 mins  ███████████████████▒░░░░░   77.18 %
+Kotlin            1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Markdown          44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Makefile          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+C++               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
