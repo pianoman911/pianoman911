@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2025 - To: 25 April 2025
+From: 19 April 2025 - To: 26 April 2025
 
-Total Time: 53 hrs 43 mins
+Total Time: 58 hrs 59 mins
 
-Java                       41 hrs 12 mins  ███████████████████▒░░░░░   76.72 %
-Markdown                   5 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Kotlin                     4 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-Access Widener             31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-JSON                       30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Java                       45 hrs 32 mins  ███████████████████▒░░░░░   77.22 %
+Markdown                   5 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Kotlin                     5 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+JSON                       36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Access Widener             32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
