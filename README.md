@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2025 - To: 13 July 2025
+From: 07 July 2025 - To: 14 July 2025
 
-Total Time: 1 min
+Total Time: 1 hr 20 mins
 
-Java                       1 min           ███████████████████████▓░   94.64 %
-Mixin Json Configuration   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-CMake                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-JSON                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Access Widener             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Java                       44 mins         ██████████████░░░░░░░░░░░   55.74 %
+Markdown                   17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+Kotlin                     14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
+TOML                       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+YAML                       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
