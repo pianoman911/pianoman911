@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-Total Time: 4 hrs 10 mins
+Total Time: 3 hrs 45 mins
 
-Java              3 hrs 20 mins   ████████████████████░░░░░   79.82 %
-YAML              20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Kotlin            15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Properties        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-SQL               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Java              2 hrs 55 mins   ███████████████████▒░░░░░   77.68 %
+YAML              20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Kotlin            15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Properties        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+SQL               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
