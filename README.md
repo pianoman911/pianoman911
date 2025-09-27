@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2025 - To: 24 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
-Total Time: 7 hrs 24 mins
+Total Time: 7 hrs 48 mins
 
-Java              6 hrs 51 mins   ███████████████████████░░   92.55 %
-Kotlin            13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Log               11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Groovy            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-TOML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Java              7 hrs 15 mins   ███████████████████████▒░   92.93 %
+Kotlin            13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Log               11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Groovy            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TOML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
