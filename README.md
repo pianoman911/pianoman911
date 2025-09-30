@@ -52,15 +52,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2025 - To: 27 September 2025
+From: 21 September 2025 - To: 28 September 2025
 
-Total Time: 6 hrs 3 mins
+Total Time: 4 hrs 58 mins
 
-Java             5 hrs 26 mins   ██████████████████████▒░░   89.69 %
-Kotlin           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-GitIgnore file   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-YAML             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Groovy           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Java             4 hrs 18 mins   █████████████████████▓░░░   86.48 %
+GitIgnore file   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Kotlin           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+YAML             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+HTML             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
