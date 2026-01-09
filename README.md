@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-Total Time: 14 hrs
+Total Time: 14 hrs 41 mins
 
-Java                       12 hrs 11 mins  █████████████████████▓░░░   87.04 %
-Kotlin                     1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-TOML                       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-JSON                       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-YAML                       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Java                       12 hrs 36 mins  █████████████████████▒░░░   85.82 %
+Kotlin                     1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+TOML                       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+CLASS                      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Image (svg)                9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
