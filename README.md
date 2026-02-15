@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2026 - To: 12 February 2026
+From: 07 February 2026 - To: 14 February 2026
 
-Total Time: 3 hrs 26 mins
+Total Time: 3 hrs 51 mins
 
-Java                       2 hrs 52 mins   █████████████████████░░░░   83.60 %
-Kotlin                     9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Markdown                   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-TOML                       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Other                      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Java                       2 hrs 27 mins   ████████████████░░░░░░░░░   63.53 %
+YAML                       25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Kotlin                     24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Markdown                   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+TOML                       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
