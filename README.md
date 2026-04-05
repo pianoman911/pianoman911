@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2026 - To: 03 April 2026
+From: 28 March 2026 - To: 04 April 2026
 
-Total Time: 39 mins
+Total Time: 1 hr 7 mins
 
-Kotlin                     25 mins               ████████████████░░░░░░░░░   64.61 %
-Java                       12 mins               ████████░░░░░░░░░░░░░░░░░   32.30 %
-JSON                       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Properties                 0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Markdown                   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Kotlin                     37 mins               ██████████████░░░░░░░░░░░   56.05 %
+Java                       19 mins               ███████▒░░░░░░░░░░░░░░░░░   29.40 %
+Other                      5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Text                       1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Properties                 1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
