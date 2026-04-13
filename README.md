@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2026 - To: 11 April 2026
+From: 05 April 2026 - To: 12 April 2026
 
 Total Time: 1 hr 12 mins
 
-Java              44 mins               ███████████████▒░░░░░░░░░   60.75 %
-Kotlin            19 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
-TOML              6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-Properties        1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Java                       1 hr 3 mins           ██████████████████████░░░   87.34 %
+Kotlin                     7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+TOML                       1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+SQL                        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+GitIgnore file             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
