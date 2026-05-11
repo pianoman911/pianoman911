@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2026 - To: 09 May 2026
+From: 03 May 2026 - To: 10 May 2026
 
-Total Time: 6 hrs 17 mins
+Total Time: 7 hrs 24 mins
 
-JavaScript       3 hrs 3 mins          ████████████░░░░░░░░░░░░░   48.58 %
-Java             2 hrs 20 mins         █████████▒░░░░░░░░░░░░░░░   37.20 %
-HTML             31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Kotlin           18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-SQL              1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JavaScript                 3 hrs 3 mins          ██████████▒░░░░░░░░░░░░░░   41.22 %
+Java                       2 hrs 55 mins         ██████████░░░░░░░░░░░░░░░   39.59 %
+Kotlin                     39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+HTML                       31 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+JSON                       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
 <!--END_SECTION:waka-->
