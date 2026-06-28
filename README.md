@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2026 - To: 26 June 2026
+From: 20 June 2026 - To: 27 June 2026
 
-Total Time: 3 mins
+Total Time: 2 hrs 27 mins
 
-C++               2 mins                ██████████████▓░░░░░░░░░░   58.61 %
-C/C               1 min                 █████████░░░░░░░░░░░░░░░░   36.14 %
-Java Properties   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Java              0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Properties        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java              1 hr 43 mins          █████████████████▓░░░░░░░   70.16 %
+JavaScript        13 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+HTML              10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Kotlin            7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+YAML              4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
