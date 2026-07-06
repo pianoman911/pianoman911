@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2026 - To: 04 July 2026
+From: 28 June 2026 - To: 05 July 2026
 
-Total Time: 12 hrs 43 mins
+Total Time: 11 hrs 54 mins
 
-Java                       4 hrs 52 mins         █████████▓░░░░░░░░░░░░░░░   38.35 %
-C                          2 hrs 12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
-Kotlin                     1 hr 31 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
-JavaScript                 1 hr 6 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-C/C++                      1 hr 1 min            ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Java                       4 hrs 5 mins          ████████▓░░░░░░░░░░░░░░░░   34.38 %
+C                          2 hrs 12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
+Kotlin                     1 hr 31 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+JavaScript                 1 hr 6 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+C/C++                      1 hr 1 min            ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
 ```
 
 <!--END_SECTION:waka-->
