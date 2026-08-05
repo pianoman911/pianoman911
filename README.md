@@ -53,15 +53,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2026 - To: 02 August 2026
+From: 27 July 2026 - To: 03 August 2026
 
-Total Time: 3 hrs 17 mins
+Total Time: 2 hrs 59 mins
 
-Java       3 hrs 13 mins         ████████████████████████▓   98.11 %
-TOML       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-SPI        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java       2 hrs 51 mins         ████████████████████████░   95.51 %
+Kotlin     4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+TOML       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
