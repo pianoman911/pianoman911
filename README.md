@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2026 - To: 19 August 2026
+From: 13 August 2026 - To: 20 August 2026
 
-Total Time: 1 hr 8 mins
+Total Time: 3 hrs 21 mins
 
-HTML             54 mins               ███████████████████▓░░░░░   78.89 %
-JavaScript       8 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-Java             4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-Shell Script     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-TypeScript       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Java              1 hr 34 mins          ███████████▓░░░░░░░░░░░░░   46.82 %
+HTML              1 hr 4 mins           ████████░░░░░░░░░░░░░░░░░   32.13 %
+Kotlin            10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+TOML              9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+JavaScript        8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
