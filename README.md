@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2026 - To: 01 September 2026
+From: 26 August 2026 - To: 02 September 2026
 
-Total Time: 7 hrs 28 mins
+Total Time: 13 hrs 33 mins
 
-TypeScript        2 hrs 54 mins         █████████▓░░░░░░░░░░░░░░░   38.91 %
-Java              2 hrs 29 mins         ████████▒░░░░░░░░░░░░░░░░   33.41 %
-Astro             25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-YAML              21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Kotlin            19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Java              7 hrs 55 mins         ██████████████▓░░░░░░░░░░   58.53 %
+TypeScript        2 hrs 59 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+Kotlin            39 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Astro             25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+YAML              21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
