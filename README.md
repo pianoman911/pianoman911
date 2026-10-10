@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-Total Time: 12 hrs 22 mins
+Total Time: 12 hrs 6 mins
 
-Java              9 hrs 43 mins         ███████████████████▓░░░░░   78.60 %
-Markdown          57 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-Kotlin            53 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-PowerShell        9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-TOML              9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Java              9 hrs 27 mins         ███████████████████▓░░░░░   78.13 %
+Markdown          57 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Kotlin            53 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+PowerShell        9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+TOML              9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
