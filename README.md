@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2026 - To: 19 October 2026
+From: 13 October 2026 - To: 20 October 2026
 
-Total Time: 4 hrs 54 mins
+Total Time: 4 hrs 57 mins
 
-Jupyter          1 hr 49 mins          █████████▒░░░░░░░░░░░░░░░   37.11 %
-Java             1 hr 32 mins          ███████▓░░░░░░░░░░░░░░░░░   31.32 %
-TypeScript       54 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-YAML             22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-SQL              5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Jupyter          1 hr 49 mins          █████████▒░░░░░░░░░░░░░░░   36.77 %
+Java             1 hr 35 mins          ████████░░░░░░░░░░░░░░░░░   31.95 %
+TypeScript       54 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+YAML             22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+SQL              5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
