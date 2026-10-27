@@ -53,15 +53,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2026 - To: 25 October 2026
+From: 19 October 2026 - To: 26 October 2026
 
-Total Time: 4 hrs 57 mins
+Total Time: 2 mins
 
-Jupyter          1 hr 49 mins          █████████▒░░░░░░░░░░░░░░░   36.77 %
-Java             1 hr 35 mins          ████████░░░░░░░░░░░░░░░░░   31.95 %
-TypeScript       54 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
-YAML             22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-SQL              5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Java        2 mins                ████████████████████████▒   97.13 %
+Kotlin      0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Batchfile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TOML        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
